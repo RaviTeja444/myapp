@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.0.0",
+  "Data":"This is an Express Application",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
